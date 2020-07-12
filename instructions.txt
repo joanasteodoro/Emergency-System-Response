@@ -1,0 +1,12 @@
+1 - Setup
+    - Python 3.8.2
+    - Networkx Library (pip install networkx)
+    - Matplotlib Library (pip install matplotlib)
+    - Click Library (pip install click)
+    - Numpy Library (pip install numpy)
+    - Scipy Library (pip install scipy)
+
+2 - Usage
+
+    To see the full list of usages, one can run "python aasma.py --help" on a terminal.
+    For standard execution, "python aasma.py" will suffice.
